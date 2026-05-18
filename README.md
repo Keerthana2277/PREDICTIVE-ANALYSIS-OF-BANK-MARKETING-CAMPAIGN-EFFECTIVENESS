@@ -106,9 +106,6 @@ Suggestions
 - Use data-driven customer segmentation to improve future campaign success
 
 
-Conclusion
-
-This project demonstrates how Python and data visualization techniques can be used to analyze bank marketing data effectively. The analysis identified important customer patterns, high-conversion customer groups, and the most effective communication methods. These insights can help improve future marketing strategies and customer targeting.
 
 Conclusion
 
