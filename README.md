@@ -13,8 +13,11 @@ Clean and analyze imbalanced data for better business insights
 Tools and Libraries Used
 
 Pandas – Data cleaning and data analysis
+
 NumPy – Numerical calculations and array operations
+
 Matplotlib – Basic data visualizations
+
 Seaborn – Statistical and advanced visualizations
 
 
@@ -26,33 +29,56 @@ The dataset contains bank marketing campaign data collected from customers of a 
 Columns in Dataset
 
  Age - Age of the customer
+ 
  Job - Type of occupation or professional background
+ 
  Marital - Marital status of the customer
+ 
  Education - Highest level of education achieved
+ 
  Default - Whether the customer has credit in default
+ 
  Balance - Average yearly account balance
+ 
  Housing - Whether the customer has a housing loan
+ 
  Loan - Whether the customer has a personal loan
+ 
  Contact - Communication method used to contact the customer
+ 
  Day - Day of the month when the customer was contacted
+ 
  Month - Month when the customer was contacted
+ 
  Duration - Duration of the last contact call in seconds
- Campaign - Number of contacts during the current campaign- Pdays - Number of days after previous contact from earlier campaign
+ 
+ Campaign - Number of contacts during the current campaign
+ 
+ Pdays - Number of days after previous contact from earlier campaign
+ 
  Previous - Number of contacts before the current campaign
+ 
  Poutcome - Outcome of the previous marketing campaign
+ 
  Y - Whether the customer subscribed to the term deposit
 
 
 Data Visualization
  
 Different visualization techniques were used to identify customer patterns, financial behavior, and campaign effectiveness.
-- Bar Charts - Analyzed customer job distribution and target variable distribution
-- Line Charts - Studied the relationship between age and average account balance
-- Heatmaps - Identified correlations between numerical variables
-- Boxplots - Compared balance distribution across age groups and loan categories
-- Histograms - Displayed customer age frequency distribution
-- Pie Charts - Showed the educational composition of customers
-- Count Plots - Evaluated communication methods and subscription success rates
+Bar Charts - Analyzed customer job distribution and target variable distribution
+  
+Line Charts - Studied the relationship between age and average account balance
+  
+Heatmaps - Identified correlations between numerical variables
+  
+Boxplots - Compared balance distribution across age groups and loan categories
+
+Histograms - Displayed customer age frequency distribution
+
+Pie Charts - Showed the educational composition of customers
+
+Count Plots - Evaluated communication methods and subscription success rates
 
 
 Key Findings
